@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_one"
+        android:title="@string/Tab_one" />
+
+    <item
+        android:id="@+id/navigation_two"
+        android:title="@string/Tab_two" />
+
+    <item
+        android:id="@+id/navigation_three"
+        android:title="@string/Tab_three" />
+
+</menu>
